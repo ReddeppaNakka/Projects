@@ -5,7 +5,7 @@ Features
 Classifies histopathological images into four tissue types: EA (Endometrioid Adenocarcinoma), EH (Endometrial Hyperplasia), EP (Endometrial Polyp), and NE (Normal Endometrium).
 Provides an easy-to-use web interface for uploading images and viewing predictions.
 Displays predictions with confidence scores.
-Steps to Use
+Steps to Use as follows
 1. Clone the Repository
 Clone the repository to your local machine:
 
